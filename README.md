@@ -83,4 +83,4 @@
 ### Book
 |Name book | Autors | Status | Link |
 |----------|--------|--------|------|
-| LATEX|  | | [LaTEX Guide: ] (https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) |
+| LATEX|  | To Do | [LaTEX Guide: ] (https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) |
