@@ -6,3 +6,8 @@
 # Machine Learning
 ## Fundamentals
 # Deep Learning
+# MLOps
+# Virtualization
+# Mathematics
+# Visualization
+# Soft Skills
