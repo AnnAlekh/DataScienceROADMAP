@@ -1,8 +1,8 @@
 # Programming
-###Book
+### Book
 |Name book | Autors | Status |
 |----------|--------|--------|
-||||
+|Изучаем Pyrhon том 1 | Марк Луц| В процессе|
 ## Python
 ## Java
 ## Kotlin
