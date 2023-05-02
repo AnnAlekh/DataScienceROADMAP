@@ -37,8 +37,7 @@
 ### Book
 |Name book | Autors | Status |
 |----------|--------|--------|
-| Semi-Supervised Learning | Olivier Chapelle,
-Bernhard Schölkopf | *In progress* |
+| Semi-Supervised Learning | Olivier Chapelle, Bernhard Schölkopf | *In progress* |
 ## Self-supervised algoritms
 ### Book
 |Name book | Autors | Status |
