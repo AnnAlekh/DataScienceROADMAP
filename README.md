@@ -89,6 +89,7 @@
 |Name course | link | Status |
 |----------|--------|--------|
 | Build, Train, and Deploy a Machine Learning Model with Amazon SageMaker | https://aws.amazon.com/ru/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/?trk=el_a134p000003yWILAA2&trkCampaign=DS_SageMaker_Tutorial&sc_channel=el&sc_campaign=Data_Scientist_Hands-on_Tutorial&sc_outcome=Product_Marketing&sc_geo=mult&p=gsrc&c=lp_ds | To Do |
+|Data Engineering with AWS| https://github.com/PacktPublishing/Data-Engineering-with-AWS | To Do|
 
 # Mathematics
 ### Book
