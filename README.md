@@ -102,6 +102,16 @@
 |Name book | Autors | Status |
 |----------|--------|--------|
 | |  | |
+# CUDA & Nvidia soft
+## Source & Books
+|Name book | Autors | Status | Link |
+|----------|--------|--------|------|
+| CUDA by Example  |  |  |  |
+| CUDA for Engineers: An Introduction to High-Performance Parallel Computing  |  |  |  |
+| Programming Massively Parallel Processors: A Hands-on Approach |  |  |  |
+| Программирование GPU при помощи Python и CUDA |  | *In progress* |  |
+
+
 # Soft Skills
 ### Book
 |Name book | Autors | Status | Link |
