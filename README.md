@@ -33,7 +33,8 @@
 ### Book
 |Name book | Autors | Status |
 |----------|--------|--------|
-| |  | |
+| Artificial Intelligence: A Modern Approach  | Stuart Russell, Peter Norvig | To Do |
+| Bayesian Reasoning and Machine Learning | David Barber | To Do |
 # Deep Learning
 ## Semi-supervised algoritms
 ### Book
@@ -49,7 +50,7 @@
 ### Book
 |Name book | Autors | Status |
 |----------|--------|--------|
-| |  | |
+| Reinforcement Learning | Richard S. Sutton and Andrew G. Barto | *In progress* |
 # Computer vision
 ### Book
 |Name book | Autors | Status |
