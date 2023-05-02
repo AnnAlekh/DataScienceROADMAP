@@ -18,7 +18,9 @@
 ### Book
 |Name book | Autors | Status |
 |----------|--------|--------|
-| |  | |
+| Kotlin. Программирование для профессионалов | Джош Скин, Дэвид Гринхол | To Do |
+| Kotlin в действии | Дмитрий Жемеров, Светлана Исакова | To Do |
+| Effective Kotlin: Best practices | Marcin Moskala  | To Do |
 # Algorithms & Data Structures
 ### Book
 |Name book | Autors | Status |
