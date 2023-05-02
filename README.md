@@ -71,7 +71,7 @@
 ### Book
 |Name book | Autors | Status |
 |----------|--------|--------|
-| |  | |
+| 3D Deep Learning with Python | (https://github.com/PacktPublishing/3D-Deep-Learning-with-Python)  | To Do |
 ## QGIS
 # MLOps
 ### Book
