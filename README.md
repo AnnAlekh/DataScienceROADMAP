@@ -37,12 +37,13 @@
 ### Book
 |Name book | Autors | Status |
 |----------|--------|--------|
-| |  | |
+| Semi-Supervised Learning | Olivier Chapelle,
+Bernhard Schölkopf | *In progress* |
 ## Self-supervised algoritms
 ### Book
 |Name book | Autors | Status |
 |----------|--------|--------|
-| |  | |
+| A Cookbook of Self-Supervised Learning | (https://arxiv.org/abs/2304.12210) | *In progress* |
 ## Other train methods
 ### Book
 |Name book | Autors | Status |
