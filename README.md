@@ -25,7 +25,9 @@
 ### Book
 |Name book | Autors | Status |
 |----------|--------|--------|
-| |  | |
+| Практические структуры данных и алгоритмы с Python |  | *In progress* |
+| Освоение шаблонов проектирования Python || *In progress* |
+|  |||
 # Machine Learning
 ## Fundamentals
 ### Book
